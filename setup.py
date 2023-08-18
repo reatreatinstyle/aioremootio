@@ -32,7 +32,7 @@ setup(
     python_requires=">=3.8",
     install_requires=install_requires,
     project_urls={
-        "Bug Tracker": "https://github.com/reatreatinstyle/aioremootio/issues",
-        "Source": "https://github.com/reatreatinstyle/aioremootio/"
+        "Bug Tracker": "https://github.com/retreatinstyle/aioremootio/issues",
+        "Source": "https://github.com/retreatinstyle/aioremootio/"
     }
 )
